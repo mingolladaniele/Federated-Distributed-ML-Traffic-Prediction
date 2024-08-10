@@ -34,6 +34,10 @@ The thesis offers the following contributions:
 - Comparison of these approaches with traditional isolated models to demonstrate their effectiveness in various urban scenarios.
 - Exploration of performance improvements and limitations based on different parameters and scenarios.
 
+## Conclusion
+
+The rise of mobile devices and dynamic networks requires adaptive learning systems that can operate in non-static environments and leverage user collaboration. This work introduced two federated and distributed approaches for predicting cellular traffic in urban settings, enhancing prediction accuracy by enabling local models to share information.Experimental results showed that these approaches outperform isolated models and offer benefits in data privacy and reduced network load.
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). This license permits free use, modification, and distribution of the work, provided that appropriate credit is given and any redistributed work is licensed under the same terms.
