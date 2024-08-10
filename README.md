@@ -40,7 +40,7 @@ This repository is licensed under the [MIT License](LICENSE). This license permi
 
 ## Accessing the Thesis
 
-You can access the full thesis in PDF format [here](link-to-pdf).
+You can access the full thesis in PDF format [here](/Mingolla_Daniele_Thesis_Masters_Data_Science_2022.pdf).
 
 ## Contact
 
